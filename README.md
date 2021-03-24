@@ -22,6 +22,8 @@ Java8/11, C/C++, Python3, HTML5+CSS3, JavaScript
 
 SpringBoot, jQuery, node.js
 
+RTOS, IEEE802.15.4, Bluetooth, EnOcean, Zigbee, 920MHz
+
 <!---
 akagoma/akagoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
