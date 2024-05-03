@@ -25,7 +25,7 @@
 ## Keywords
 UML, etrobo
 
-Java8/11, C/C++, Python3, HTML5+CSS3, JavaScript, TypeScript
+Java8/11, C/C++, Python3, HTML5+CSS3, JavaScript, TypeScript, GO
 
 SpringFramework, jQuery, node.js, React
 
