@@ -1,7 +1,7 @@
 # Profile
 
 ## About me
-赤ごま (10年目)
+赤ごま (12年目)
 
 ## Skills
 
@@ -16,6 +16,7 @@
   - Amazon Web Service AWS設計/運用/保守
 - GO Hyperledger Fabric ブロックチェーンシステム　企画/設計/開発/運用/保守 (2022.10〜)
   - Amazon Web Service AWS設計/運用/保守
+- difyワークフローPoC開発(2026.09)
 
 ### 業務外
 - ETロボコン プライマリクラス 全国大会出場 (2016年)
@@ -31,7 +32,7 @@ SpringFramework, jQuery, node.js, React
 
 AWS, IoT
 
-RTOS, IEEE802.15.4, Bluetooth, EnOcean, Zigbee, 920MHz, Hyperledger Fabric, Blockchain
+RTOS, IEEE802.15.4, Bluetooth, EnOcean, Zigbee, 920MHz, Hyperledger Fabric, Blockchain, PLC
 
 <!---
 akagoma/akagoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
